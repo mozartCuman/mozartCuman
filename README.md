@@ -1,3 +1,5 @@
+<img src="https://readme-img.onrender.com/api/banner?username=mozartCuman&template=modern2&bg=dark&font=modern" alt="mozartCuman's GitHub Stats" />
+
 # 👋 Olá, eu sou Mozart Cuman
 
 💻 Desenvolvedor Júnior apaixonado por **Java** e **React**  
