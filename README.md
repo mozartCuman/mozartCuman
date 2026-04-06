@@ -19,14 +19,16 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 🧪 [CovidDataFlow](https://github.com/mozartCuman/coviddataflow)  
-  *Treinamento e estudo de Dados (Python)*
+
+- 🧪 [CovidDataFlow (Backend)](https://github.com/mozartCuman/covidDataFlow)  
+  *Persistência, recuperação de dados e scraping com Python*
+
+- 🌐 [CovidDataFlow_Frontend](https://github.com/mozartCuman/covidDataFlow_Frontend)  
+  *Interface em React para visualização dos dados coletados pelo backend*
 
 - 📘 [Blog Pessoal](https://github.com/mozartCuman/blog_pessoal)  
 
 - 💪 [ShapeOne App Fitness](https://github.com/mozartCuman/shapeone)  
-
-- 🚗 [RiderX Caronas](https://github.com/mozartCuman/G1-S/riderx)  
 
 ---
 
@@ -49,9 +51,14 @@
 
 ### 🛠 Commits, Issues e PRs
 #### CovidDataFlow
-![Commits](https://badgen.net/github/commits/mozartCuman/coviddataflow)
-![Issues](https://badgen.net/github/issues/mozartCuman/coviddataflow)
-![PRs](https://badgen.net/github/prs/mozartCuman/coviddataflow)
+![Commits](https://badgen.net/github/commits/mozartCuman/covidDataFlow)
+![Issues](https://badgen.net/github/issues/mozartCuman/covidDataFlow)
+![PRs](https://badgen.net/github/prs/mozartCuman/covidDataFlow)
+
+#### CovidDataFlow_Frontend
+![Commits](https://badgen.net/github/commits/mozartCuman/covidDataFlow_Frontend)
+![Issues](https://badgen.net/github/issues/mozartCuman/covidDataFlow_Frontend)
+![PRs](https://badgen.net/github/prs/mozartCuman/covidDataFlow_Frontend)
 
 #### Blog Pessoal
 ![Commits](https://badgen.net/github/commits/mozartCuman/blog_pessoal)
@@ -62,11 +69,6 @@
 ![Commits](https://badgen.net/github/commits/mozartCuman/shapeone)
 ![Issues](https://badgen.net/github/issues/mozartCuman/shapeone)
 ![PRs](https://badgen.net/github/prs/mozartCuman/shapeone)
-
-#### RiderX
-![Commits](https://badgen.net/github/commits/mozartCuman/G1-S/riderx)
-![Issues](https://badgen.net/github/issues/mozartCuman/G1-S/riderx)
-![PRs](https://badgen.net/github/prs/mozartCuman/G1-S/riderx)
 
 ---
 
@@ -82,10 +84,10 @@
 
 ## ❓ Mini Quiz
 **Qual projeto você quer conhecer?**  
-- [CovidDataFlow](https://github.com/mozartCuman/coviddataflow)  
+- [CovidDataFlow (Backend)](https://github.com/mozartCuman/covidDataFlow)  
+- [CovidDataFlow_Frontend](https://github.com/mozartCuman/covidDataFlow_Frontend)  
 - [Blog Pessoal](https://github.com/mozartCuman/blog_pessoal)  
 - [ShapeOne](https://github.com/mozartCuman/shapeone)  
-- [RiderX](https://github.com/mozartCuman/G1-S/riderx)  
 
 ---
 
