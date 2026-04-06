@@ -13,7 +13,6 @@
 ## 🎵 O que estou ouvindo
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wa32vhhttafi5izozzrayx3fdi)
 
-[![Minha Playlist](https://i.scdn.co/image/ab67616d0000b273e0c6f3a7b6f7f7f7f7f7f7f7)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 ---
 
 ## 🔧 Tecnologias
