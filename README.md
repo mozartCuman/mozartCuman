@@ -11,8 +11,9 @@
 ---
 
 ## 🎵 O que estou ouvindo
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31wa32vhhttafi5izozzrayx3fdi)
-
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/user/31wa32vhhttafi5izozzrayx3fdi" width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</p>
 ---
 
 ## 🔧 Tecnologias
