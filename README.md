@@ -45,11 +45,6 @@
 
 ---
 
-## 🎮 Snake Game
-![Snake animation](https://github.com/mozartCuman/mozartCuman/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📊 Estatísticas Alternativas
 
 ### 🔥 Contribuições
