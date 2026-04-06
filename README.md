@@ -11,9 +11,7 @@
 ---
 
 ## 🎵 O que estou ouvindo
-<p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/user/31wa32vhhttafi5izozzrayx3fdi" width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</p>
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wa32vhhttafi5izozzrayx3fdi)
 ---
 
 ## 🔧 Tecnologias
