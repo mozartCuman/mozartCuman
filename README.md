@@ -3,7 +3,7 @@
 </p>
 # 👋 Olá, eu sou Mozart Cuman
 
-💻 Desenvolvedor Júnior apaixonado por **Java** e **React**  
+💻 Desenvolvedor Júnior apaixonado por **Java** **Python** e **React**  
 🚀 Explorando novas tecnologias e criando projetos incríveis!
 
 ---
