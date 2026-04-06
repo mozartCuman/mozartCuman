@@ -1,5 +1,3 @@
-
-
 # 👋 Olá, eu sou Mozart Cuman
 
 💻 Desenvolvedor Júnior apaixonado por **Java** e **React**  
@@ -21,9 +19,14 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 📘 Blog Pessoal  
-- 💪 ShapeOne App Fitness  
-- 🚗 RiderX Caronas  
+- 🧪 [CovidDataFlow](https://github.com/mozartCuman/coviddataflow)  
+  *Treinamento e estudo de Dados (Python)*
+
+- 📘 [Blog Pessoal](https://github.com/mozartCuman/blog_pessoal)  
+
+- 💪 [ShapeOne App Fitness](https://github.com/mozartCuman/shapeone)  
+
+- 🚗 [RiderX Caronas](https://github.com/mozartCuman/G1-S/riderx)  
 
 ---
 
@@ -32,10 +35,38 @@
 
 ---
 
-## 📊 Estatísticas
-![Mozart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozartCuman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozartCuman&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mozartCuman&theme=radical)
+## 📊 Estatísticas Alternativas
+
+### 🔥 Contribuições
+![Contribuições](https://github-contribution-stats.vercel.app/api/?username=mozartCuman)
+
+### 📈 Atividade
+![Atividade](https://activity-graph.herokuapp.com/graph?username=mozartCuman&theme=dracula)
+
+### ⭐ Popularidade
+![Stars](https://img.shields.io/github/stars/mozartCuman?style=social)
+![Followers](https://img.shields.io/github/followers/mozartCuman?style=social)
+
+### 🛠 Commits, Issues e PRs
+#### CovidDataFlow
+![Commits](https://badgen.net/github/commits/mozartCuman/coviddataflow)
+![Issues](https://badgen.net/github/issues/mozartCuman/coviddataflow)
+![PRs](https://badgen.net/github/prs/mozartCuman/coviddataflow)
+
+#### Blog Pessoal
+![Commits](https://badgen.net/github/commits/mozartCuman/blog_pessoal)
+![Issues](https://badgen.net/github/issues/mozartCuman/blog_pessoal)
+![PRs](https://badgen.net/github/prs/mozartCuman/blog_pessoal)
+
+#### ShapeOne
+![Commits](https://badgen.net/github/commits/mozartCuman/shapeone)
+![Issues](https://badgen.net/github/issues/mozartCuman/shapeone)
+![PRs](https://badgen.net/github/prs/mozartCuman/shapeone)
+
+#### RiderX
+![Commits](https://badgen.net/github/commits/mozartCuman/G1-S/riderx)
+![Issues](https://badgen.net/github/issues/mozartCuman/G1-S/riderx)
+![PRs](https://badgen.net/github/prs/mozartCuman/G1-S/riderx)
 
 ---
 
@@ -51,9 +82,10 @@
 
 ## ❓ Mini Quiz
 **Qual projeto você quer conhecer?**  
+- [CovidDataFlow](https://github.com/mozartCuman/coviddataflow)  
 - [Blog Pessoal](https://github.com/mozartCuman/blog_pessoal)  
 - [ShapeOne](https://github.com/mozartCuman/shapeone)  
-- [RiderX](https://github.com/mozartCuman/G1-S/riderx)
+- [RiderX](https://github.com/mozartCuman/G1-S/riderx)  
 
 ---
 
