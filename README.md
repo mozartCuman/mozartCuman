@@ -1,3 +1,7 @@
+<!-- Banner temático -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300/0047AB/FFFFFF?text=Bem-vindo+ao+meu+GitHub" alt="Banner">
+</p>
 # 👋 Olá, eu sou Mozart Cuman
 
 💻 Desenvolvedor Júnior apaixonado por **Java** e **React**  
