@@ -10,6 +10,11 @@
 
 ---
 
+## 🎵 O que estou ouvindo
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31wa32vhhttafi5izozzrayx3fdi)
+
+---
+
 ## 🔧 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -87,11 +92,6 @@
 
 ## 👀 Visitantes
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mozartCuman)
-
----
-
-## 🎵 O que estou ouvindo
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/seuusuario)
 
 ---
 
