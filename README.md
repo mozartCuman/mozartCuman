@@ -53,11 +53,6 @@
 ### 🔥 Contribuições
 ![Contribuições](https://github-contribution-stats.vercel.app/api/?username=mozartCuman)
 
-<!-- GIF nerd logo após contribuições -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Warp Speed">
-</p>
-
 ### 📈 Atividade
 ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=mozartCuman&theme=dracula)
 
@@ -110,3 +105,10 @@
 ## 📫 Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mozart-cuman-albuquerque/)  
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:mozartcuman@gmail.com)
+
+---
+
+<!-- GIF final nerd -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Warp Speed">
+</p>
