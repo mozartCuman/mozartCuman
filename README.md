@@ -1,6 +1,5 @@
-<!-- Banner temático -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0047AB/FFFFFF?text=Bem-vindo+ao+meu+GitHub" alt="Banner">
+  <img src="https://copilot.microsoft.com/th/id/BCO.89dffb42-ca6e-459c-b4d1-fd7578d1f859.png" alt="Star Trek Banner" width="100%">
 </p>
 # 👋 Olá, eu sou Mozart Cuman
 
