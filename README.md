@@ -97,3 +97,8 @@
 ## 📫 Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mozart-cuman-albuquerque/)  
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:mozartcuman@gmail.com)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" alt="Live Long and Prosper">
+</p>
