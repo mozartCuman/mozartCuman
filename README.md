@@ -27,6 +27,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/00rVkiCKWsVNFMNbnR/giphy.gif" width="600" alt="Live Long and Prosper">
+</p>
+
 ## 📂 Projetos em Destaque
 
 - 🧪 [CovidDataFlow (Backend)](https://github.com/mozartCuman/covidDataFlow)  
