@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm Mozart Cuman! It's nice to see you here!!!
 
-💻 Junior Developer passionate about **Java**, **Python**, and **React**  
+💻 Software Developer passionate about **Java**, **Python**, and **React**  
 🚀 Experienced with **Spring Boot** and **MySQL**, building full-stack applications  
 📚 Strong foundation in Software Engineering and Object-Oriented Programming  
 🤝 Skilled in teamwork, adaptability, and professional communication  
