@@ -56,7 +56,7 @@
 
 <!-- Nerd GIF on the right -->
 <p align="right">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Live Long and Prosper">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdzZTd2bTczaGUwMXdob2JvazdkMHZleG44MTJtdnl2ZDY2dHdxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="200" alt="Live Long and Prosper">
 </p>
 
 ### 📈 Activity
