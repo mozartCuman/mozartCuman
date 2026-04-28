@@ -79,11 +79,6 @@
 ![Issues](https://badgen.net/github/issues/mozartCuman/covidDataFlow_Frontend)
 ![PRs](https://badgen.net/github/prs/mozartCuman/covidDataFlow_Frontend)
 
-#### Personal Blog
-![Commits](https://badgen.net/github/commits/mozartCuman/blog_pessoal)
-![Issues](https://badgen.net/github/issues/mozartCuman/blog_pessoal)
-![PRs](https://badgen.net/github/prs/mozartCuman/blog_pessoal)
-
 #### ShapeOne
 ![Commits](https://badgen.net/github/commits/mozartCuman/shapeone)
 ![Issues](https://badgen.net/github/issues/mozartCuman/shapeone)
