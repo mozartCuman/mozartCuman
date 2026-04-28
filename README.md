@@ -45,8 +45,6 @@
 - 🌐 [CovidDataFlow_Frontend](https://github.com/mozartCuman/covidDataFlow_Frontend)  
   *React interface for visualizing data collected by the backend*
 
-- 📘 [Personal Blog](https://github.com/mozartCuman/blog_pessoal)  
-
 - 💪 [ShapeOne Fitness App](https://github.com/mozartCuman/shapeone)  
 
 ---
